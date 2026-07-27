@@ -5,18 +5,6 @@
     Bab pengenalan harus diisi dengan identitas (Nama dan Batch)
     * *Answer*\
     Bagian ini berisi proses dalam menjawab soal, tiap nomor soal dikerjakan dalam satu cell masing-masing dan berikan judul soal dengan markdown sebelum cell code.
-
-2. Notebook **wajib** memberikan keterangan atau pengenalan dengan menggunakan **`markdown`** yang berisikan Judul tugas, Nama, Batch, dan penjelasan singkat tentang program yang dibuat. *Contoh:*
-    ```
-    
-    =================================================
-    Live Code 2
-
-    Nama  : Fahmi Iman Alfarizki
-    Batch : CODA-RMT-001
-
-    Program ini dibuat untuk melakukan automatisasi pengolahan (cleaning) data text yang berguna untuk pemodelan model analisa sentimen.
-    =================================================
     
     ``` 
 
