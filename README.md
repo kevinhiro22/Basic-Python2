@@ -1,9 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/X0GmrgC2)
-# **Live Code 2**
----
 ## **Instruction**
 
-1. Live Code ini dikerjakan dalam format ***notebook*** isi *notebook* harus mengikuti *outline* di bawah ini:
+1. Tugas ini dikerjakan dalam format ***notebook*** isi *notebook* harus mengikuti *outline* di bawah ini:
     * Perkenalan\
     Bab pengenalan harus diisi dengan identitas (Nama dan Batch)
     * *Answer*\
@@ -44,8 +41,6 @@
 
   ```
   Berikan juga keterangan/penjelasan umum tentang code yang tertulis pada suatu cell di tiap cellnya (tulis di baris paling atas dengan `comment` atau `docstring`.
-
-4. **WARNING**: Plagiarisme sekecil apapun dapat terdeteksi. Tugas ini akan diuji tingkat plagiarismenya dengan software khusus.
 ---
 ## **Assignment Submission**
 
@@ -54,7 +49,7 @@
 ---
 ## **Assignment Objectives**
 
-*Live Code 2* ini dibuat guna mengevaluasi Python sebagai berikut:
+Tugas ini dibuat guna mengevaluasi Python sebagai berikut:
 
 - Mampu menggunakan syntax dasar Python.
 - Mampu menerapkan logika conditional pada kasus.
@@ -94,16 +89,4 @@ Sebuah perusahaan memiliki berbagai jenis karyawan dengan tingkat gaji yang berb
 
    >>> [Out]: 24340000
 ---
-## **Assignment Rubrics**
 
----
-
-|Rubric|Description|Score|
-|---|---|---|
-|Looping|Siswa mampu menerapkan looping sesuai dengan instruksi pada soal|5 pts|
-|Conditional If|Mampu menerapkan conditional if dalam suatu kasus|5 pts|
-|Function|Siswa mampu menerapkan function dalam suatu kasus|5 pts|
-|Run Perfectly|Tidak ada error pada kode|5 pts|
-|Readability|Semua cell di notebook terdokumentasikan dengan baik dengan markdown pada tiap cell untuk penjelasan kode|5 pts|
-
-Total Points : 25
